@@ -8,9 +8,7 @@ Construa, utilizando HTML, CSS e JavaScript puro, uma aplicação para a visuali
 # Usabilidade
 
 
-
-
-<img src="sample.png" alt="gobarberweb" width="100%">
+<img src="sample.png" alt="igti1" width="100%">
 
 # Dúvidas?
 :mailbox_with_no_mail:[Marcelo Bonilla](https://www.linkedin.com/in/marcelobonilla/)
